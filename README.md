@@ -1,7 +1,7 @@
 # Twitter-analyzer
 
 ## Extract data with Tweepy
-Just get access tokens and key from Twitter-for-developers and extract up to 3200 latest tweets of a given a username (twitter screen name) or user id, for your choice 
+Just get access tokens and key from Twitter-for-developers and extract up to 3200 latest tweets of a given a username (twitter screen name) or user id, of your choice 
 
 ## Using the analyzer
 Put the path of where you saved the extracted data, and use this functions:
