@@ -1,10 +1,11 @@
 # Twitter-analyzer
 
 ## Extract data with Tweepy
-Just get access tokens and key from Twitter-for-developers and start analyze tweets. 
+Just get access tokens and key from Twitter-for-developers and extract up to 3200 latest tweets of a given a username (twitter screen name) or user id, for your choice 
 
 ## Using the analyzer
-Put a username (twitter screen name) or user id, extract up to the latest 3200 tweets of this user and use this functions:
+Put the path of where you saved the extracted data, and use this functions:
+
 1. counter of words of all tweets (with the oprtion to choose to count only countries names) 
 2. Counter of people mentioned in the tweets
 3. number of tweets for each day of the week, and counter of tweets for each hour of the day
