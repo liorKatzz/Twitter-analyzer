@@ -1,9 +1,9 @@
-## Twitter-analyzer
+# Twitter-analyzer
 
-# Extract data with Tweepy
+## Extract data with Tweepy
 Just get access tokens and key from Twitter-for-developers and start analyze tweets. 
 
-# Using the analyzer
+## Using the analyzer
 Put a username (twitter screen name) or user id, extract up to the latest 3200 tweets of this user and use this functions:
 1. counter of words of all tweets (with the oprtion to choose to count only countries names) 
 2. Counter of people mentioned in the tweets
