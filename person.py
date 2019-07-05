@@ -42,7 +42,7 @@ class Person:
 
     def get_full_name(self, counter):
         """Given a person with a single word name, find a person with the same first name. If there is more than one,
-        return the person with most frequencies
+        return the person who's most frequent in our counter
         """
         res_person = None
         max_ = -1
