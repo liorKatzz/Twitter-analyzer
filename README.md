@@ -1,6 +1,6 @@
 # Twitter-analyzer
 
-Just get access tokens and and key from Twitter for developers and start analyze tweets. 
+Just get access tokens and key from Twitter-for-developers and start analyze tweets. 
 
 Put a username (twitter screen name) or user id, extract up to the latest 3200 tweets of this user and use this functions:
 
